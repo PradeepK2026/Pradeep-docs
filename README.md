@@ -19,5 +19,5 @@ This repository includes work samples for reference.
 - Documentation projects
 
 📫 Reach me:
-- LinkedIn: <your link>
-- Email: <your email>
+- LinkedIn: https://www.linkedin.com/in/pradeep-kumar-574b41b/
+- Email: Pradeep.kumar@hotmail.co.in
